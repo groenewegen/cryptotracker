@@ -1,2 +1,3 @@
-# cryptotracker
-Keep track of the latest cryptocurrency prices
+# Cryptotracker
+
+A cryptocurrency tracker app built with React
